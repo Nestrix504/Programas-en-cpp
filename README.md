@@ -34,13 +34,7 @@ Introduce el uso de estructuras condicionales (`if` / `else`) y el operador mód
 ## 4. Área de un Triángulo
 El programa pide la **base** y la **altura** de un triángulo y calcula su área con la fórmula:
 
-
-
-\[
-\text{Área} = \frac{\text{base} \cdot \text{altura}}{2}
-\]
-
-
+b*a/2
 
 Este ejercicio combina entrada de datos, operaciones matemáticas y salida de resultados.
 
